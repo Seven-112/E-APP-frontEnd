@@ -1,4 +1,3 @@
-# E-APP-frontEnd
 # E-APP
 ## Table of contents
 * [General info](#general-info)
